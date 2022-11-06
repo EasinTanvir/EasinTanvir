@@ -5,8 +5,7 @@ I've building website for more than two years. As a developer I grow up with som
 
 Skills: JavaScript / React /NodeJs /ExpressJs/ NextJs/HTML5 / CSS3/Bootstrap5
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NodeJs 
+- 🔭 I’m currently working on this page. - 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Fullstack Development 
 
