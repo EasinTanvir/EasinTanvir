@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm EasinTanvir</h1>
-<h3 align="center">Full Stack Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easintanvir&label=Profile%20views&color=0e75b6&style=flat" alt="easintanvir" /> </p>
 
