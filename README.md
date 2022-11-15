@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easintanvir&label=Profile%20views&color=0e75b6&style=flat" alt="easintanvir" /> </p>
 
-- 🌱 I’m currently learning **Node.js Framework Like Express.js**
+- 🌱 I’m currently learning **Php Framework Like Larabel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EasinTanvir?tab=repositories](https://github.com/EasinTanvir?tab=repositories)
 
-- 💬 Ask me about **React , React Native , Next.js , TypeScript , Bootstrap, MaterialUi , MongoDB , Node.js , RestfulApi**
+- 💬 Ask me about **ReactJs , NodeJs ,ExpressJs,  Next.js , TypeScript , Bootstrap, MaterialUi , MongoDB, RestfulApi**
 
 - 📫 How to reach me **easintanvir102@gmail.com**
 
